@@ -11,7 +11,7 @@
   <a href="tel:+57318338105">
     <img src="https://img.shields.io/badge/Teléfono-318338105-0078D4?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Teléfono"/>
   </a>
-  <a href="https://www.linkedin.com/in/luis-miguel-abril-sanguña">
+  <a href="[https://www.linkedin.com/in/luis-miguel-abril-sanguña](https://www.linkedin.com/in/luis-miguel-abril-sangu%C3%B1a-0a4a921a1/)">
     <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=luis2599&style=for-the-badge&color=0078D4&label=Perfil+Visitado" alt="Profile Views" />
@@ -180,40 +180,11 @@ Ingeniero de Sistemas con experiencia progresiva en **aseguramiento de calidad (
 
 </div>
 
-<!-- ESTADÍSTICAS DE GITHUB -->
-## <span style="color:#0078D4">📊 GitHub Analytics</span>
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luis2599&show_icons=true&count_private=true&hide_border=true&title_color=0078D4&icon_color=0078D4&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis2599&layout=compact&hide_border=true&title_color=0078D4&text_color=0078D4&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<!-- REFERENCIAS PROFESIONALES -->
-## <span style="color:#0078D4">🤝 Referencias</span>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Juan Sebastian Mendoza</b></td>
-      <td align="center"><b>Keiny Ruben Gamba</b></td>
-    </tr>
-    <tr>
-      <td align="center">Ingeniero de Sistemas</td>
-      <td align="center">Ingeniero de Sistemas</td>
-    </tr>
-    <tr>
-      <td align="center">📞 314 518 9363</td>
-      <td align="center">📞 311 473 0858</td>
-    </tr>
-  </table>
-</div>
-
 <!-- FOOTER PROFESIONAL -->
+<!-- Reemplaza con un eslogan profesional -->
 <div align="center">
-  <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
   <br>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-  <h4>✨ <span style="color:#0078D4">"Comprometido con la calidad, la mejora continua y la excelencia en el aseguramiento de software"</span> ✨</h4>
-  <p>📍 Ibagué, Colombia | 📧 luismigue_25@hommail.com | 📱 318338105</p>
+  <h3>🔍 <span style="color:#0078D4">"Mi objetivo no es encontrar errores, es asegurar que no los haya."</span> 🔍</h3>
+  <p><i>Luis Miguel Abril Sanguña - QA & Automation Engineer</i></p>
 </div>
