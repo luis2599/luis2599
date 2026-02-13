@@ -1,93 +1,45 @@
+<h1 align="center">🦅 LUMAS | Luis Abril</h1>
+
 <p align="center">
-  <img src="assets/logo.png" width="250"/>
+  <img src="assets/logo.png" width="220"/>
 </p>
 
-<h1 align="center">Hi there 👋 I'm Luis Miguel Abril</h1>
-<h3 align="center">QA Automation Engineer | Selenium | Java | Cucumber | Git</h3>
+<p align="center">
+  <strong>QA Automation Engineer</strong><br>
+  Selenium • Java • Cucumber • Git • BDD
+</p>
 
 ---
 
-## 🦅 About Me
+### ⚔️ Automation Is My Craft
 
-💻 QA Automation Engineer apasionado por la calidad del software  
-⚙️ Especializado en automatización con **Selenium + Java + Cucumber (BDD)**  
-🔄 Manejo de versiones con **Git & GitHub**  
-🌎 Buscando oportunidades **remotas (Internacional / Colombia)**  
-🚀 En constante aprendizaje y evolución tecnológica  
+Transformo pruebas manuales en soluciones automatizadas robustas, mantenibles y escalables.
 
-Actualmente enfocado en:
-- Automatización Web con Selenium
-- Frameworks con Page Object Model
-- Integración con Cucumber + Gherkin
-- Buenas prácticas de testing
+✔️ Diseño de frameworks desde cero  
+✔️ Implementación de Page Object Model  
+✔️ Manejo avanzado de waits y ExpectedConditions  
+✔️ Integración con Cucumber (BDD)  
+✔️ Buenas prácticas y clean code  
+
+---
+
+### 🧠 Actualmente trabajando en:
+
+- Mejora de frameworks de automatización
+- Optimización de ejecución de pruebas
 - Integración continua
+- Mejores prácticas en QA
 
 ---
 
-## 🛠️ Tech Stack
+### 🌍 Open To
 
-<p align="center">
-
-💡 **Automation**
-- Selenium WebDriver
-- Cucumber (BDD)
-- TestNG / JUnit
-
-💻 **Languages**
-- Java
-- JavaScript (básico para DOM y pruebas)
-
-🔧 **Tools**
-- Git
-- GitHub
-- Gradle
-- Maven
-- IntelliJ IDEA
-
-📋 **Methodologies**
-- Agile / Scrum
-- Page Object Model
-- BDD
-
-</p>
-
----
-
-## 📂 Featured Projects
-
-🔹 Automation Framework with Selenium + Cucumber  
-🔹 Web Testing Practice (Amazon scenarios, validations, waits, ExpectedConditions)  
-🔹 Custom BasePage implementations  
-🔹 Git versioning workflows  
-
-*(Próximamente más proyectos públicos)*
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luis2599&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis2599&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🎯 Professional Objective
-
-Construir soluciones de automatización robustas, escalables y mantenibles, que aporten valor real a los equipos de desarrollo y eleven la calidad del software.
-
----
-
-## 📬 Contact
-
-📧 Disponible para oportunidades freelance y posiciones remotas  
-🌎 Colombia  
-💼 Abierto a colaboración en proyectos internacionales  
+Remote International Roles  
+Freelance Projects  
+Automation Consulting  
 
 ---
 
 <p align="center">
-  <strong>⚡ "Quality is not an act, it is a habit."</strong>
+  🚀 Building quality-driven solutions
 </p>
