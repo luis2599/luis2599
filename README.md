@@ -11,7 +11,7 @@
   <a href="tel:+57318338105">
     <img src="https://img.shields.io/badge/Teléfono-318338105-0078D4?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Teléfono"/>
   </a>
-  <a href="[https://www.linkedin.com/in/luis-miguel-abril-sanguña](https://www.linkedin.com/in/luis-miguel-abril-sangu%C3%B1a-0a4a921a1/)">
+  <a href="https://www.linkedin.com/in/luis-miguel-abril-sangu%C3%B1a-0a4a921a1">
     <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=luis2599&style=for-the-badge&color=0078D4&label=Perfil+Visitado" alt="Profile Views" />
