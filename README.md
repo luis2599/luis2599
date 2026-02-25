@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-luismigue_25%40hommail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
   <a href="tel:+57318338105">
-    <img src="https://img.shields.io/badge/Teléfono-+57318338105-0078D4?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Teléfono"/>
+    <img src="https://img.shields.io/badge/Teléfono-+57 318338105-0078D4?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Teléfono"/>
   </a>
   <a href="https://www.linkedin.com/in/luis-miguel-abril-sangu%C3%B1a">
     <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
