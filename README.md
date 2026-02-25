@@ -5,8 +5,8 @@
 
 <!-- CONTACTO PROFESIONAL - INSIGNIAS CON TU INFORMACIÓN REAL -->
 <div align="center">
-  <a href="mailto:luismigue_25@hommail.com">
-    <img src="https://img.shields.io/badge/Email-luismigue_25%40hommail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+  <a href="mailto:luismigue_25@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-luismigue_25%40hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
   <a href="tel:+57318338105">
     <img src="https://img.shields.io/badge/Teléfono-+57 318338105-0078D4?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Teléfono"/>
@@ -158,8 +158,8 @@ Ingeniero de Sistemas con experiencia progresiva en **aseguramiento de calidad (
 | **Especialización en Gerencia de Proyectos** | Universidad del Tolima | Mar. 2025 (En Curso) |
 | **Ingeniería de Sistemas** | Universidad Cooperativa de Colombia | Sep. 2021 |
 | **Diplomado en Liderazgo y Productividad** | Politécnico de Colombia | Jun. 2023 |
-| **Diplomado en Gerencia de Proyectos** | Politécnico de Colombia | - |
-| **Complementaria Virtual en MySQL** | SENA | - |
+| **Diplomado en Gerencia de Proyectos** | Politécnico de Colombia | Sep. 2021 |
+| **Complementaria Virtual en MySQL** | SENA | Nov. 2022 |
 
 </div>
 
@@ -170,13 +170,13 @@ Ingeniero de Sistemas con experiencia progresiva en **aseguramiento de calidad (
   
 | Técnicas | Blandas |
 |----------|---------|
-| ✅ Pruebas funcionales y no funcionales | ✅ Liderazgo de equipos QA |
-| ✅ Documentación técnica y manuales de usuario | ✅ Pensamiento crítico |
-| ✅ Coordinación de equipos QA | ✅ Proactividad |
+| ✅ Automatización QA | ✅ Liderazgo de equipos QA |
+| ✅ Pruebas funcionales y no funcionales | ✅ Pruebas de carga y estrés |
+| ✅ Coordinación de equipos QA | ✅ Pensamiento crítico  |
 | ✅ Gestión de requerimientos | ✅ Comunicación efectiva |
-| ✅ Administración de ambientes y BD | ✅ Adaptabilidad |
-| ✅ Soporte funcional y atención al cliente | ✅ Capacitación |
-| ✅ Automatización Selenium + Cucumber | ✅ Orientación a resultados |
+| ✅ Administración de ambientes y BD | ✅ Documentación técnica y manuales de usuario |
+| ✅ Soporte funcional y atención al cliente | ✅ Adaptabilidad |
+| ✅ Proactividad | ✅ Orientación a resultados |
 
 </div>
 
