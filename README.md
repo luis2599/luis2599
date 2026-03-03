@@ -39,7 +39,7 @@ Ingeniero de Sistemas con experiencia progresiva en **aseguramiento de calidad (
     </tr>
     <tr>
       <td align="center">📌</td>
-      <td><b>Experiencia destacada:</b> Coordinador de Pruebas en INTEMPO (2024-2025) | Analista de Pruebas (2021-2024)</td>
+      <td><b>Experiencia destacada:</b> Coordinador de Pruebas en INTEMPO (2024-2026) | Analista de Pruebas (2021-2024)</td>
     </tr>
     <tr>
       <td align="center">🎓</td>
@@ -59,7 +59,7 @@ Ingeniero de Sistemas con experiencia progresiva en **aseguramiento de calidad (
   <table>
     <tr>
       <th width="30%">Coordinador de Pruebas</th>
-      <th width="70%">INTEMPO – Bogotá, Colombia | Feb. 2024 – Ene. 2025</th>
+      <th width="70%">INTEMPO – Bogotá, Colombia | Feb. 2024 – Ene. 2026</th>
     </tr>
     <tr>
       <td colspan="2">
